@@ -1,0 +1,1 @@
+Trying to check if the commit and push will work after practicing the squash.
